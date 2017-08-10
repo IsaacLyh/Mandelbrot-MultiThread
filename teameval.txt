@@ -1,0 +1,4 @@
+TEAMEVAL: yih060@ucsd.edu YI HE 
+	yulian@ucsd.edu	YUHANG LIAN
+
+Worked on coding part and Report together;Implemented assigned functions—block size partition, chunkSize partition…etc and each collected corresponding data.
